@@ -32,7 +32,7 @@ public class Staircase {
     }
 
     public static void main(String[] args) {
-        int steps = 5;
+        int steps = 11;
         System.out.println(countWays(steps));
     }
 
